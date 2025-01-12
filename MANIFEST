@@ -1,0 +1,8 @@
+Changes
+doc/spline.png
+lib/Geo/Spline.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
+t/base.t
