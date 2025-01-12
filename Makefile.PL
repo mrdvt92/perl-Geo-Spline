@@ -7,6 +7,8 @@ WriteMakefile(
   PREREQ_PM     => {
                     'Geo::Constants'  => 0.04,
                     'Geo::Functions'  => 0.03,
+                    'Geo::Ellipsoids' => 0.09,
+                    'Test::Simple'    => 0.44, #Tests
                    },
   'META_MERGE' => {
     'resources' => {

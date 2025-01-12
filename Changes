@@ -2,7 +2,9 @@ Revision history for Perl module Geo::Spline
 
 0.17 2025-01-12
   - Moved from private repo to GitHub
-  - Added modern tests
+  - Moved to modern tests
+  - Documentation
+  - Added RPM spec file
 
 0.16 2006-02-01
   - Documentation
